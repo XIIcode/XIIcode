@@ -1,0 +1,4 @@
+1.Improvement of the project to be able to store scores and retrieve them.
+2.Coming up of a simple menu for easier navigation.
+3.Generating an exe file from that python file with an icon also.
+4.Enter player user_name.

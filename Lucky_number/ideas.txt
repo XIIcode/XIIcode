@@ -1,0 +1,5 @@
+1.Use of powershell sound script to tell gamer you win and playing a simple jubilation song and you loose.
+2.Use of windows sound for confirmation of exit and also entry of the range.
+3.ASCII text to print the name of the project.
+4.If the user gets an answer right they can procede to the next level and enter other ranges.
+5.There are two levels user supported and computer supported that offers you the range to choose from.
